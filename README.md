@@ -1,5 +1,5 @@
 # Bai tap KHMT1-K12
-Nơi upload bài tập và đáp án của các loại bài tập trên lớp cho ae 304
+Nơi upload bài tập và đáp án của lớp C của CLB HIT
 
 ## Tác giả:
 Họ và tên: Hoàng Tùng Lâm 
